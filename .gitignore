@@ -4,3 +4,4 @@ ebin/*
 *.out
 erl_crash.dump
 .rebar
+_build
